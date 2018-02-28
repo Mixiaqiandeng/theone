@@ -2,3 +2,4 @@ hello,my name is kiko.
 let's play.
 what games do you like?
 i'd like to play basketbal
+how about you?
